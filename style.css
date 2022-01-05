@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,200&display=swap');
+
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.d-flex{
+    display: flex;
+    margin-bottom: 5%;
+}
+
+.missionColoer{
+    color: orange;
+}
+#borderline{
+    border-left: 4px solid;
+    border-color: #FF5959;
+
+}
+
+.top-section{
+   
+    background-repeat: no-repeat;
+    padding-top: 50px;
+ }
+ .Develop-section{
+    background-color: #f0f0f0;
+    padding: 50px 0;
+    
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: fixed;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.all-btn{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(green, orange);
+    color: #fff;
+    border-radius: 5px;
+}
+
+
+
+.flexible-container{
+    display: flex;
+    height: 600px;
+    margin-bottom: 150px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.half-width{
+    width: 50%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 70%;
+    margin-top: 5px;
+}
+.my-missions{
+    text-align: center;
+}
+#mission-2{
+    background: #4F9DA61A;
+    border-radius: 25px;
+}
+#vission{
+    background: #4F9DA61A;
+    border-radius: 25px;
+}
+#goals{
+    background: #4F9DA61A;
+    border-radius: 25px;
+}
+.yearColoer{
+    color: orange;
+}
+
+
+
+
+.footer-page{
+    background-color: black;
+    margin: 0%;
+    text-align: center;
+    color: white;
+    height: 220px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.year{
+    color: coral;
+}
